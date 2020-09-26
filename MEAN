@@ -1,17 +1,1 @@
-Giả sử kernel là một ma trận có kích thước nxnimage.png
-
-Khi ta nhân một ảnh 2D với kernel trên(nhân từng trọng số của kernel với giá trị pixel tương ứng rồi lấy tổng)
-
-image-2.png
-
-khi đó ta được một ma trận mới
-
-image-3.png
-
-a1 = v1w1 + v2w2 +v4w3 +v5w4
-
-tương tự a2, a3, a4 khi đó ta được ma trận có kích thước nhỏ hơn ban đâu, để giữ lại kích thước ban đâu ta thêm vào các cột, hàng giá trị 0 vào ma trận
-
-image-5.png
-
-Ta có thể tưởng tượng kernel là một cái cửa số quét qua ảnhimage-4.png
+#KERNEL
